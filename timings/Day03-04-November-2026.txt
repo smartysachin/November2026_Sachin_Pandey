@@ -1,0 +1,2 @@
+3 hours learn git
+2 Hours Practice the git command from local repo to remote repo.
